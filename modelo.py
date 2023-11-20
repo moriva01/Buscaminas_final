@@ -1,3 +1,5 @@
+# la clase modelo es netamente la logica del juego
+
 import random #ramdom range
 
 class BuscaminasModelo: #clase del modelo del buscaminas
